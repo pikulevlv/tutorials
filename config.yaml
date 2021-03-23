@@ -1,0 +1,28 @@
+accounts:
+    vk:
+        username: i_love_ds
+        password: turnOnOAuth2.0
+
+    facebook: none
+
+cities:
+    - Санкт-Петербург
+    - Одесса
+    - Севастополь
+    - Волгоград
+    - Киев
+    - Брест
+    - Москва
+
+# можно оставлять комментарии
+model:
+    n_samples: 1000000
+    min_freq: 0.0001
+
+lst:
+    - item1
+    - item2
+
+dct:
+    dct_item1: value1
+    dct_item2: value2
